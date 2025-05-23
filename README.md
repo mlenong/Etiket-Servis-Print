@@ -1,7 +1,9 @@
 # Etiket Service Print
 
 Aplikasi Spring Boot untuk layanan pencetakan etiket secara lokal. Dapat dijalankan langsung, dibungkus sebagai file `.jar`, atau dikonversi menjadi `.exe` dan installer Windows.
+versi jre agar jalan di win 7 / 10 32/64
 
+OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.zip
 ---
 
 ## 🚀 Menjalankan Aplikasi Langsung
