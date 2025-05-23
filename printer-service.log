@@ -1,0 +1,46 @@
+2025-05-23 00:09:28 [main] INFO  c.e.etiket.EtiketPrintApplication - Starting EtiketPrintApplication using Java 17.0.12 on Mlenong with PID 16748 (D:\java.servisPrint\PrinterService\target\classes started by Edp in D:\java.servisPrint\PrinterService)
+2025-05-23 00:09:28 [main] DEBUG c.e.etiket.EtiketPrintApplication - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-05-23 00:09:28 [main] INFO  c.e.etiket.EtiketPrintApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-23 00:09:28 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2025-05-23 00:09:28 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-23 00:09:28 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-05-23 00:09:29 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-23 00:09:29 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 844 ms
+2025-05-23 00:09:29 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2025-05-23 00:09:29 [main] INFO  c.e.etiket.EtiketPrintApplication - Started EtiketPrintApplication in 1.652 seconds (JVM running for 1.953)
+2025-05-23 00:09:35 [http-nio-0.0.0.0-8081-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-23 00:09:35 [http-nio-0.0.0.0-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-23 00:09:35 [http-nio-0.0.0.0-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-05-23 01:30:00 [main] INFO  c.e.etiket.EtiketPrintApplication - Starting EtiketPrintApplication using Java 17.0.12 on Mlenong with PID 10248 (D:\java.servisPrint\PrinterService\target\classes started by Edp in D:\java.servisPrint\PrinterService)
+2025-05-23 01:30:00 [main] DEBUG c.e.etiket.EtiketPrintApplication - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-05-23 01:30:00 [main] INFO  c.e.etiket.EtiketPrintApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-23 01:30:01 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2025-05-23 01:30:01 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-23 01:30:01 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-05-23 01:30:01 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-23 01:30:01 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 857 ms
+2025-05-23 01:30:01 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2025-05-23 01:30:01 [main] INFO  c.e.etiket.EtiketPrintApplication - Started EtiketPrintApplication in 1.654 seconds (JVM running for 1.981)
+2025-05-23 01:43:41 [main] INFO  c.e.etiket.EtiketPrintApplication - Starting EtiketPrintApplication using Java 17.0.12 on Mlenong with PID 3264 (D:\java.servisPrint\PrinterService\target\classes started by Edp in D:\java.servisPrint\PrinterService)
+2025-05-23 01:43:41 [main] DEBUG c.e.etiket.EtiketPrintApplication - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-05-23 01:43:41 [main] INFO  c.e.etiket.EtiketPrintApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-23 01:43:42 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2025-05-23 01:43:42 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-23 01:43:42 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-05-23 01:43:42 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-23 01:43:42 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1074 ms
+2025-05-23 01:43:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2025-05-23 01:43:43 [main] INFO  c.e.etiket.EtiketPrintApplication - Started EtiketPrintApplication in 2.7 seconds (JVM running for 3.159)
+2025-05-23 01:47:05 [main] INFO  c.e.etiket.EtiketPrintApplication - Starting EtiketPrintApplication using Java 17.0.12 on Mlenong with PID 4420 (D:\java.servisPrint\PrinterService\target\classes started by Edp in D:\java.servisPrint\PrinterService)
+2025-05-23 01:47:05 [main] DEBUG c.e.etiket.EtiketPrintApplication - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-05-23 01:47:05 [main] INFO  c.e.etiket.EtiketPrintApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-23 01:47:06 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2025-05-23 01:47:06 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-05-23 01:47:06 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-05-23 01:47:06 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-05-23 01:47:06 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 969 ms
+2025-05-23 01:47:07 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2025-05-23 01:47:07 [main] INFO  c.e.etiket.EtiketPrintApplication - Started EtiketPrintApplication in 1.767 seconds (JVM running for 2.148)
+2025-05-23 01:47:17 [http-nio-0.0.0.0-8081-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-05-23 01:47:17 [http-nio-0.0.0.0-8081-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-23 01:47:17 [http-nio-0.0.0.0-8081-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
